@@ -8,3 +8,9 @@ you just need to clone this repository and install some python Libraries to work
 4) after installling this Libraries type
 5) python3 auto_increse_view.py
 and enter your blog url.
+
+# poc
+
+For More Information Do Watch this Video:
+
+https://www.instagram.com/p/CNxD9L-n_VQ/
